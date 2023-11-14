@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    width: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+img {
+    width: 100px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    background-color: blue;
+    border-radius: 10px;
+    width: 160px;
+    text-align: center;
+    margin: 50px;
+    color: #FFFFFF;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.img-card {
+    width: 150px;
+}
+
+
+.code {
+    font-size: 15px;
+}
+
+button {
+    margin: 0 0 10px 0;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 7px;
+    background-color: orange;
+}
+
+.call {
+    color: blue;
+}
